@@ -1,6 +1,9 @@
 #!/usr/bin/python
 ## Second Problem
 
+
+
+
 messages = open("/var/log/messages")
 tmp = ""
 count=1
